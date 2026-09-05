@@ -1,5 +1,8 @@
 # Operating-System
 
+## Codechef Learning path:
+- Link: https://www.codechef.com/learn/course/polaris-s5-os-2026
+
 ## Practice Template Question for Eval-1
 A process P1 is executing in user mode and performs a system call. Later, the scheduler switches the CPU from P1 to P2. Answer the following: 
 - (a) What changes during a user-mode → kernel-mode transition? 
