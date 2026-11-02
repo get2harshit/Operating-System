@@ -6,6 +6,7 @@
 - Syllabus Outline: OS Fundamentals, Process APIs (Theory & Numericals), CPU Scheduling (Theory & Numericals),  Memory Management (only theory)
 - **Attempt Class Test**: https://github.com/get2harshit/Operating-System/blob/main/Practice%20Test/OS_Class_Test_Set_1.pdf
 - Complete **Learning Path (Evaluation Problems)** Twice: https://www.codechef.com/learn/course/polaris-s5-os-2026/OSPRACTICE/problems/OSEVAL1
+- Practice Theory Model Answers : https://github.com/get2harshit/Operating-System/blob/main/Practice%20Test/OS%20%20Model%20Answers.pdf
 
 ## Codechef Learning path:
 - Link: https://www.codechef.com/learn/course/polaris-s5-os-2026
