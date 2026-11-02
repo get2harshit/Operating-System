@@ -1,5 +1,12 @@
 # Operating-System
 
+## Mid-Sem Preparation Strategy:
+- 50% Theory, 50% Numericals
+- Entire Exam will be on MSU Portal (easyclasses)
+- Syllabus Outline: OS Fundamentals, Process APIs (Theory & Numericals), CPU Scheduling (Theory & Numericals),  Memory Management (only theory)
+- **Attempt Class Test**: https://github.com/get2harshit/Operating-System/blob/main/Practice%20Test/OS_Class_Test_Set_1.pdf
+- Complete **Learning Path (Evaluation Problems)** Twice: https://www.codechef.com/learn/course/polaris-s5-os-2026/OSPRACTICE/problems/OSEVAL1
+
 ## Codechef Learning path:
 - Link: https://www.codechef.com/learn/course/polaris-s5-os-2026
 
